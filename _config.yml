@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: 건강지향 프로그래머 # the main title
 
-tagline: 다 먹고살자고 하는 일 아니겠습니까?    # it will display as the sub-title
+tagline: 다 먹고살자고 하는 일 \n아니겠습니까?    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   programmer k8s github action aws spring
